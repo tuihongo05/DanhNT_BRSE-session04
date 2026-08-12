@@ -1,0 +1,21 @@
+h1 {
+  font-weight: bold;
+}
+lable {
+  font-weight: bold;
+}
+input {
+  width: 300px;
+}
+textarea {
+  width: 300px;
+  height: 100px;
+}
+button {
+  background-color:green;
+  color: white;
+  text-align: center;
+  width: 300px;
+  padding: 5px;
+  border-radius: 4px;
+}

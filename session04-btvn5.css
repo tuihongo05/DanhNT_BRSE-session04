@@ -1,0 +1,11 @@
+div {
+    border-left: 5px solid orange;
+    padding-left: 10px;
+    background-color:palegoldenrod;
+    width: 600px;
+    margin-top: 20px;
+}
+span {
+    font-weight: bold;
+    color:orange;
+}

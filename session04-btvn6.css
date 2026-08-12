@@ -1,0 +1,23 @@
+.text {
+    text-align: center;
+    background-color:bisque;
+    padding: 30px;
+}
+h1 {
+    font-size: 50px;
+    color: blue;
+}
+h2 {
+    color: black;
+}
+button {
+    background-color:lightgray;
+    border: 1px solid black;
+    color: black;
+    padding: 10px 20px;
+}
+button:hover {
+    background-color: green;
+    border: 3px solid black;
+    color: white;
+}
